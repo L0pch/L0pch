@@ -4,7 +4,7 @@ I'm a Computer Science undergraduate at the National University of Singapore, bu
 
 I care about what happens after a prototype works: permissions, state consistency, failure recovery, test coverage, and maintainable delivery.
 
-I'm currently open to software engineering internships.
+I'm currently open to internships.
 
 ## Engineering toolkit
 
